@@ -14,4 +14,3 @@ ISSUE 종류를 선택하세요 (`[ ]` 안에 `x` 표시, `[x]`)
 ## 체크리스트
 
 - [ ] Assignees / Labels / Projects 선택
-- [ ] ...
